@@ -1,0 +1,13 @@
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\bin\Debug\netcoreapp3.1\PNGReader.exe
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\bin\Debug\netcoreapp3.1\PNGReader.deps.json
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\bin\Debug\netcoreapp3.1\PNGReader.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\bin\Debug\netcoreapp3.1\PNGReader.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\bin\Debug\netcoreapp3.1\PNGReader.dll
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\bin\Debug\netcoreapp3.1\PNGReader.pdb
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\obj\Debug\netcoreapp3.1\PNGReader.csprojAssemblyReference.cache
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\obj\Debug\netcoreapp3.1\PNGReader.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\obj\Debug\netcoreapp3.1\PNGReader.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\obj\Debug\netcoreapp3.1\PNGReader.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\obj\Debug\netcoreapp3.1\PNGReader.dll
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\obj\Debug\netcoreapp3.1\PNGReader.pdb
+C:\Users\3zAl7arbi\source\repos\PNGReader\PNGReader\obj\Debug\netcoreapp3.1\PNGReader.genruntimeconfig.cache
